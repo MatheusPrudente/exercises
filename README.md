@@ -32,7 +32,7 @@ Exercises are divided into three difficulty
 |463| Island Perimeter |[View](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/463-island-perimeter)| ${\textsf{\color{Green}Easy}}$ |
 |495| Teemo Attacking |[View](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/495-teemo-attacking)| ${\textsf{\color{Green}Easy}}$ |
 |509| Fibonacci Number |[View](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/509-fibonacci-number)| ${\textsf{\color{Green}Easy}}$ |
-|1757| Recyclable and Low Fat Products |[View](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/1757-recyclable-and-low-fat-products/README.md)| ${\textsf{\color{Green}Easy}}$ |
+|1757| Recyclable and Low Fat Products |[View](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 
 
 
