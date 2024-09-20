@@ -42,7 +42,7 @@ Exercises are divided into three difficulty
 | Number| Name | Code | Difficulty |
 |-------|------|-----| ------------|
 |2| Add Two Numbers|[Java](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/algorithm/medium/2-add-two-numbers)| ${\textsf{\color{Dandelion}Medium}}$ |
-|2705| Compact Object|[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/medium/2705-compact-object)| ${\textsf{\color{Dandelion}Medium}}$ |
+|2705| Compact Object|[JavaScript](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/medium/2705-compact-object)| ${\textsf{\color{Dandelion}Medium}}$ |
 
 ### Difficulty : Hard
 
