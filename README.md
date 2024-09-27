@@ -1,4 +1,10 @@
-## leetcode-problems/algorithm
+## exercises
+<p>
+    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/exercises"/>
+    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/exercises"/>
+    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/exercises"/>
+    <img src="https://img.shields.io/github/issues/MatheusPrudente/exercises"/>
+</p>
 Exercises are divided into three difficulty
 
 ### Difficulty : Easy
