@@ -34,6 +34,9 @@ Exercises are divided into three difficulty
 |119| Pascal's Triangle II |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/119-pascals-triangle-ii)| ${\textsf{\color{Green}Easy}}$ |
 |125| Valid Palindrome |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/125-valid-palindrome)| ${\textsf{\color{Green}Easy}}$ |
 |191| Number of 1 Bits |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/191-number-of-1-bits)| ${\textsf{\color{Green}Easy}}$ |
+|197| Rising Temperature|[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/197-rising-temperature)| ${\textsf{\color{Green}Easy}}$ |
+
+
 |404| Sum of Left Leaves |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/404-sum-of-left-leaves)| ${\textsf{\color{Green}Easy}}$ |
 |463| Island Perimeter |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/463-island-perimeter)| ${\textsf{\color{Green}Easy}}$ |
 |495| Teemo Attacking |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/495-teemo-attacking)| ${\textsf{\color{Green}Easy}}$ |
