@@ -40,6 +40,7 @@ Exercises are divided into three difficulty
 |495| Teemo Attacking |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/495-teemo-attacking)| ${\textsf{\color{Green}Easy}}$ |
 |509| Fibonacci Number |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/509-fibonacci-number)| ${\textsf{\color{Green}Easy}}$ |
 |584| Find Customer Referee |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/584-find-customer-referee)| ${\textsf{\color{Green}Easy}}$ |
+|620| Not Boring Movies |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/620-not-boring-movies)| ${\textsf{\color{Green}Easy}}$ |
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 
 
