@@ -44,6 +44,7 @@ Exercises are divided into three difficulty
 |620| Not Boring Movies |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/620-not-boring-movies)| ${\textsf{\color{Green}Easy}}$ |
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 |1678| Goal Parser Interpretation |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1678-goal-parser-interpretation)| ${\textsf{\color{Green}Easy}}$ |
+|1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 
 
