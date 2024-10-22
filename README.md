@@ -48,6 +48,8 @@ Exercises are divided into three difficulty
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 |2634| Filter Elements from Array |[JavaScript](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/2634-filter-elements-from-array)| ${\textsf{\color{Green}Easy}}$ |
 |2769| Find the Maximum Achievable Number |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/2769-find-the-maximum-achievable-number)| ${\textsf{\color{Green}Easy}}$ |
+|3110| Score of a String |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/3110-score-of-a-string)| ${\textsf{\color{Green}Easy}}$ |
+
 
 
 ### Difficulty : Medium
