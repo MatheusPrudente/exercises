@@ -45,6 +45,7 @@ Exercises are divided into three difficulty
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 |1678| Goal Parser Interpretation |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1678-goal-parser-interpretation)| ${\textsf{\color{Green}Easy}}$ |
 |1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
+|1662| Check If Two String Arrays are Equivalent |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1662-check-if-two-string-arrays-are-equivalent)| ${\textsf{\color{Green}Easy}}$ |
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 |2634| Filter Elements from Array |[JavaScript](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/2634-filter-elements-from-array)| ${\textsf{\color{Green}Easy}}$ |
 |2769| Find the Maximum Achievable Number |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/2769-find-the-maximum-achievable-number)| ${\textsf{\color{Green}Easy}}$ |
