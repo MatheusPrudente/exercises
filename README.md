@@ -42,6 +42,9 @@ Exercises are divided into three difficulty
 |570| Employee Bonus |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/577-employee-bonus)| ${\textsf{\color{Green}Easy}}$ |
 |584| Find Customer Referee |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/584-find-customer-referee)| ${\textsf{\color{Green}Easy}}$ |
 |620| Not Boring Movies |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/620-not-boring-movies)| ${\textsf{\color{Green}Easy}}$ |
+|1342| Number of Steps to Reduce a Number to Zero |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1342-number-of-steps-to-reduce-a-number-to-zero)| ${\textsf{\color{Green}Easy}}$ |
+
+
 |1757| Recyclable and Low Fat Products |[SQL](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/database/easy/1757-recyclable-and-low-fat-products)| ${\textsf{\color{Green}Easy}}$ |
 |1678| Goal Parser Interpretation |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1678-goal-parser-interpretation)| ${\textsf{\color{Green}Easy}}$ |
 |1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
