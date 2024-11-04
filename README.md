@@ -43,6 +43,7 @@ Exercises are divided into three difficulty
 |584| Find Customer Referee |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/584-find-customer-referee)| ${\textsf{\color{Green}Easy}}$ |
 |595| Big Countries |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/595-big-countries)| ${\textsf{\color{Green}Easy}}$ |
 |620| Not Boring Movies |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/620-not-boring-movies)| ${\textsf{\color{Green}Easy}}$ |
+|867| Transpose Matrix |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/867-transpose-matrix)| ${\textsf{\color{Green}Easy}}$ |
 |1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
 |1342| Number of Steps to Reduce a Number to Zero |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1342-number-of-steps-to-reduce-a-number-to-zero)| ${\textsf{\color{Green}Easy}}$ |
 |1662| Check If Two String Arrays are Equivalent |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1662-check-if-two-string-arrays-are-equivalent)| ${\textsf{\color{Green}Easy}}$ |
