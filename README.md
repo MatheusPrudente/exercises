@@ -63,6 +63,7 @@ Exercises are divided into three difficulty
 |-------|------|-----| ------------|
 |2| Add Two Numbers|[Java](https://github.com/MatheusPrudente/exercises/blob/main/leetcode-problems/algorithm/medium/2-add-two-numbers)| ${\textsf{\color{Dandelion}Medium}}$ |
 |570| Managers with at Least 5 Direct Reports|[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/medium/570-managers-with-at-least-5-direct-reports)| ${\textsf{\color{Dandelion}Medium}}$ |
+|841| Keys and Rooms|[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/medium/841-keys-and-rooms)| ${\textsf{\color{Dandelion}Medium}}$ |
 |2623| Memoize|[JavaScript](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/medium/2623-memoize)| ${\textsf{\color{Dandelion}Medium}}$ |
 |2705| Compact Object|[JavaScript](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/medium/2705-compact-object)| ${\textsf{\color{Dandelion}Medium}}$ |
 
