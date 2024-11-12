@@ -45,6 +45,7 @@ Exercises are divided into three difficulty
 |620| Not Boring Movies |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/620-not-boring-movies)| ${\textsf{\color{Green}Easy}}$ |
 |771| Jewels and Stones |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/771-jewels-and-stones)| ${\textsf{\color{Green}Easy}}$ |
 |867| Transpose Matrix |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/867-transpose-matrix)| ${\textsf{\color{Green}Easy}}$ |
+|1068| Product Sales Analysis I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1068-product-sales-analysis-i)| ${\textsf{\color{Green}Easy}}$ |
 |1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
 |1342| Number of Steps to Reduce a Number to Zero |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1342-number-of-steps-to-reduce-a-number-to-zero)| ${\textsf{\color{Green}Easy}}$ |
 |1662| Check If Two String Arrays are Equivalent |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1662-check-if-two-string-arrays-are-equivalent)| ${\textsf{\color{Green}Easy}}$ |
