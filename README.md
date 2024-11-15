@@ -48,6 +48,7 @@ Exercises are divided into three difficulty
 |1108| Defanging an IP Address |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1108-defanging-an-ip-address)| ${\textsf{\color{Green}Easy}}$ |
 |1068| Product Sales Analysis I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1068-product-sales-analysis-i)| ${\textsf{\color{Green}Easy}}$ |
 |1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
+|1280| Students and Examinations |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1280-students-and-examinations)| ${\textsf{\color{Green}Easy}}$ |
 |1281| Subtract the Product and Sum of Digits of an Integer |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer)| ${\textsf{\color{Green}Easy}}$ |
 |1342| Number of Steps to Reduce a Number to Zero |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1342-number-of-steps-to-reduce-a-number-to-zero)| ${\textsf{\color{Green}Easy}}$ |
 |1662| Check If Two String Arrays are Equivalent |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1662-check-if-two-string-arrays-are-equivalent)| ${\textsf{\color{Green}Easy}}$ |
