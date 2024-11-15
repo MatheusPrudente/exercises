@@ -45,6 +45,7 @@ Exercises are divided into three difficulty
 |620| Not Boring Movies |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/620-not-boring-movies)| ${\textsf{\color{Green}Easy}}$ |
 |771| Jewels and Stones |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/771-jewels-and-stones)| ${\textsf{\color{Green}Easy}}$ |
 |867| Transpose Matrix |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/867-transpose-matrix)| ${\textsf{\color{Green}Easy}}$ |
+|1108| Defanging an IP Address |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1108-defanging-an-ip-address)| ${\textsf{\color{Green}Easy}}$ |
 |1068| Product Sales Analysis I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1068-product-sales-analysis-i)| ${\textsf{\color{Green}Easy}}$ |
 |1148| Article Views I |[SQL](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/database/easy/1148-article-views-i)| ${\textsf{\color{Green}Easy}}$ |
 |1281| Subtract the Product and Sum of Digits of an Integer |[Java](https://github.com/MatheusPrudente/exercises/tree/main/leetcode-problems/algorithm/easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer)| ${\textsf{\color{Green}Easy}}$ |
